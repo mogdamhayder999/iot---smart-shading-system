@@ -1,4 +1,9 @@
 # ☀️ Smart Blinds IoT Monitoring System
+## 👨‍🏫 Supervisor
+Prof. Mehmet Ali Akyol  
+Course: IoT and Digital twins   
+Project: Smart Shading System
+
 
 An interactive **Streamlit dashboard** for monitoring IoT sensor data related to
 **light intensity** and **temperature**, designed to support intelligent control
